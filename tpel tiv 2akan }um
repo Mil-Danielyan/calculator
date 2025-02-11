@@ -1,0 +1,16 @@
+//chstacvac
+#include <iostream>
+using namespace std;
+
+int main () {
+    int num;
+    cout << "Enter number" << endl;
+    cin >> num;
+}
+
+if ( n == 0) {
+    cout << 0;
+    return 0;
+} while (num > 0) {
+
+}
